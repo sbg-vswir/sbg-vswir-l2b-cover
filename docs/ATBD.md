@@ -1,6 +1,5 @@
-**SBG VSWIR Geology Products – Algorithm Theoretical Basis Document (ATBD)**
+**SBG VSWIR Fractional Cover – Algorithm Theoretical Basis Document (ATBD)**
 
-**R.O. Green**<sup>1</sup>
 **P.G. Brodrick**<sup>1</sup>
 
 <sup>1</sup>Jet Propulsion Laboratory, California Institute of Technology
