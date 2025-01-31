@@ -1,4 +1,4 @@
-**SBG VSWIR Fractional Cover – Algorithm Theoretical Basis Document (ATBD)**
+# **SBG VSWIR Fractional Cover – Algorithm Theoretical Basis Document (ATBD)** 
 
 **P.G. Brodrick**<sup>1</sup>
 
