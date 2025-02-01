@@ -62,15 +62,15 @@ The core inputs are:
 
 ## 4.4 Algorithm Output Variables
 
-- **Surface Fractional Cover**: The proportion of each pixel that is represented by the target class.  There will be 8 classes:
--- Photosynthetic Vegetation
--- Non-photosynthetic Vegetation
--- Bare Surface
--- Water
--- Snow
--- Ice
--- Char
--- Cloud
+- **Surface Fractional Cover**: The proportion of each pixel that is represented by the target class.  There will be multiple classes, each with one band, summing to one in total:
+1. Photosynthetic Vegetation
+2. Non-photosynthetic Vegetation
+3. Bare Surface
+4. Water
+5. Snow
+6. Ice
+7. Char
+8. Ash (TBD - possibly merged with char)
 
 - **Surface Fractional Cover Uncertainty**: The model-predicted uncertainty in the fraction of each of the classes noted above, taking into account the uncertainty of the surface reflectance as well as uncertainties within the fractional cover model.
 
